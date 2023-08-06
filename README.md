@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# ![image](https://github.com/harshilmanoj/harshilmanoj/assets/78437452/61886683-4bf8-4d6d-afd8-31540de7ca9c) GitHub Stats:
 <p align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
