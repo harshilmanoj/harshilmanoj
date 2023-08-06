@@ -50,13 +50,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshilmanoj&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophies">
 </div>
-<br>
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
-<br>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
