@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 <p align="center">
 // Your content
+  
 ![](https://github-profile-trophy.vercel.app/?username=harshilmanoj&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </p>
 
