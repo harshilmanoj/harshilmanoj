@@ -27,30 +27,25 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# ![image](https://github.com/harshilmanoj/harshilmanoj/assets/78437452/61886683-4bf8-4d6d-afd8-31540de7ca9c) GitHub Stats:
-<p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=dark&hide_border=false)<br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-## 🏆 GitHub Trophies
-<center>
-  
+## 🏆 GitHub Trophies  
   
 ![](https://github-profile-trophy.vercel.app/?username=harshilmanoj&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-</center>
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshilmanoj&limit=5&theme=dark&combine_all_yearly_contributions=true)
