@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rising-sun" alt="Random Quote">
 </div>
 
 ### 🔝 Top Contributed Repo
