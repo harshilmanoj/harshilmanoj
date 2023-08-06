@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 
 </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=dark&hide_border=false)<br/><br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 <p align="center">
