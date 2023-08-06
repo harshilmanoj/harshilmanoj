@@ -32,22 +32,36 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
+<br>
 
 ## 🏆 GitHub Trophies  
   
-![](https://github-profile-trophy.vercel.app/?username=harshilmanoj&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshilmanoj&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophies">
+</div>
+<br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+</div>
+<br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshilmanoj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=harshilmanoj&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
