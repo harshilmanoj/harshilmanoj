@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=rising-sun&hide_border=false" alt="GitHub Streak Stats">
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
 </div>
 
 ### 🔝 Top Contributed Repo
