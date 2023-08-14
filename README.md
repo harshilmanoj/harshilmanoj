@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🏫 I'm currently pursuing B.Tech in Computer Science Engineering with Specialization in IoT at VIT, Vellore.<br>🎯 I’m currently focusing on Competitive Coding, DSA, and web development.<br>🤝 I’m looking to collaborate and contribute to some open-source projects.<br>⚡ Fun fact: I have a deep passion for both immersing myself in books, playing football and watching anime.<br>👯 I’m looking forward to get a Placement for Software Development Engineer.<br>📫 Reach me at: harshilsmanoj@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshilnesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshilmanoj) 
 
 # 💻 Tech Stack:
