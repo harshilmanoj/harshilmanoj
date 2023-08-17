@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&exclude_repo=Appathon-Website-2021,Appathon_Website,Space_Exploration&langs_count=10" />
 </p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshilmanoj&theme=radical"  display=block width=100% height=auto  alt="1" >
-</p>
+
 ## 🏆 GitHub Trophies  
   
 <div align="center">
