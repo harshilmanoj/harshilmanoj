@@ -28,22 +28,13 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div>
-
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=rising-sun&hide_border=false" alt="GitHub Streak Stats">
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
-<br>
+<p align="center">
+  <img  alt="Harshil Manoj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshilmanoj&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=highcontrast&hide_border=true" alt="" height=200px width=400px/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmanoj&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&exclude_repo=Appathon-Website-2021,Appathon_Website,Space_Exploration&langs_count=10" />
+</p>
 
 ## 🏆 GitHub Trophies  
   
