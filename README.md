@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img  alt="Harshil Manoj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshilmanoj&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;
   <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=highcontrast&hide_border=true" alt="" height=200px width=400px/>
