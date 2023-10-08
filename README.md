@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 <p align="center">
-  ![harshilmanoj's Stats](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=radical&show_icons=true&hide_border=false&count_private=true)
+  <img  src="![harshilmanoj's Stats](https://github-readme-stats.vercel.app/api?username=harshilmanoj&theme=radical&show_icons=true&hide_border=false&count_private=true)" alt="" height=200px width=400px/>
   <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmanoj&theme=highcontrast&hide_border=true" alt="" height=200px width=400px/>
 </p>
 <p align="center">
